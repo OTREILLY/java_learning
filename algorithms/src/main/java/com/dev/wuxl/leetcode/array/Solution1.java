@@ -6,6 +6,9 @@ import static com.dev.wuxl.leetcode.array.ArrayUtils.swap;
 /**
  * @author <a href="mailto:wu.xuanle@immomo.com">wu.xuanle</a>
  * @create 18/6/2
+ *
+ *
+ *
  */
 public class Solution1 {
 
