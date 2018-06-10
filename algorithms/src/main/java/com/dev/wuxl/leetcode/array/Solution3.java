@@ -9,7 +9,7 @@ public class Solution3 {
 
   public static void main(String[] args) {
     Solution3 solution = new Solution3();
-    int[] arr = {1,4,3,2,0};
+    int[] arr = {1,4,3,2,1};
     System.out.println(solution.containsDuplicate3(arr));
   }
 

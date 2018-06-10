@@ -20,4 +20,16 @@ public class ArrayUtils {
     System.out.println("");
   }
 
+  public static void swap2(int[] nums, int i, int j){
+    nums[i] = nums[i] ^ nums[j];
+    nums[j] = nums[i] ^ nums[j];
+    nums[i] = nums[i] ^ nums[j];
+  }
+
+  public static void main(String[] args) {
+    int[] nums = {1,2,3,4,5,6,7};
+    char[] arrays = "abcdefg".toCharArray();
+    swap2(nums, 2,3);
+  }
+
 }

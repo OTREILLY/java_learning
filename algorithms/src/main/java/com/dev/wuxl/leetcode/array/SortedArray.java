@@ -220,6 +220,7 @@ public class SortedArray {
       int j = i-1;
       while(j>start){
         swap(arr, j, j+1);
+        j--;
       }
       arr[start] = temp;
     }

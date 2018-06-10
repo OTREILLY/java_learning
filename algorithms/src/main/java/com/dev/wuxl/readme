@@ -1,0 +1,32 @@
+查找算法：
+leetcode.array.search
+
+排序算法：
+leetcode.array.SortArray
+
+数组：
+向右移动k位                  leetcode.array.Solution1
+剔除有序数组中的重复数字       leetcode.array.Solution2
+数组中是否有重复数字           leetcode.array.Solution3
+找出数组中仅出现一次的数       leetcode.array.Solution4
+数组中的非零元素置前          leetcode.array.Solution6
+最大连续子序列和              leetcode.array.Solution10
+
+字符串：
+回文字符串                   leetcode.string.Solution
+最长回文子串                 leetcode.string.Solution1
+翻转句子                     leetcode.string.Solution2
+替换字符串中的空格             leetcode.string.Solution3
+输出字符串的全排列             leetcode.string.Solution4
+第一个没有重复的字符          leetcode.string.Solution5
+计算字符串之间的最短距离      leetcode.string.Solution6
+寻找字符串不包含重复字符的最长子字符串  leetcode.string.Solution7
+
+ 最长公共子序列
+
+
+
+
+
+
+

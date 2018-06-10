@@ -41,7 +41,7 @@ public class Solution1 {
   public static void test2(){
     int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     printArray("", array);
-    new Solution1().rotate3(array, 3);
+    new Solution1().rotate2(array, 3);
     printArray("", array);
 
 

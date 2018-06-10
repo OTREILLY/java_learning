@@ -25,6 +25,12 @@ public class Client {
         consumer.consume();
       }
     }
+
+    try {
+      Thread.sleep(10000);
+    } catch (InterruptedException e) {
+      e.printStackTrace();
+    }
   }
 
 
